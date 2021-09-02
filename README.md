@@ -1,11 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I am Gaitho Kevin Karobia
 
+ - I enjoy writting code, building models, and building pipelines that facilate CI / CD. 
+ - I mainly use python for my programming however I am comfortable using Go and Javascript / Typescript
+ - I have experience using cloud services,  I have used both AWS and Google Cloud for model building (EC2 and Compute Engine)
 
- ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=Jabor047&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false&include_all_commits=true)
+ ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=Jabor047&count_private=true&show_icons=true&theme=synthwave&hide_rank=false&include_all_commits=true)
  
  ![Most Used Tech Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=Jabor047)
  
  ![trophy](https://github-profile-trophy.vercel.app/?username=Jabor047)
+ 
 <!--
 **Jabor047/Jabor047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
