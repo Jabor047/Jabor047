@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+ ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=Jabor047&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false&include_all_commits=true)
+ 
+ ![Most Used Tech Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=Jabor047)
+ 
+ ![trophy](https://github-profile-trophy.vercel.app/?username=Jabor047)
 <!--
 **Jabor047/Jabor047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
