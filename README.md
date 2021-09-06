@@ -2,7 +2,8 @@
 
  - I enjoy writting code, building models, and building pipelines that facilate CI / CD. 
  - I mainly use python for my programming however I am comfortable using Go and Javascript / Typescript
- - I have experience using cloud services,  I have used both AWS and Google Cloud for model building (EC2 and Compute Engine)
+ - I have experience using cloud services,  I have used both AWS and Google Cloud for model building (EC2 and Compute Engine) data storage (S3, Amazon RDS, Big Guery, Firestore) and other services from both
+ - I enjoy talking Tech, software engineering and Machine learning  
 
  ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=Jabor047&count_private=true&show_icons=true&theme=synthwave&hide_rank=false&include_all_commits=true)
  
