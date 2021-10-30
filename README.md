@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Gaitho Kevin Karobia
 
- - I enjoy writting code, building models, and building pipelines that facilate CI / CD. 
+ - I enjoy writing code, building models, and building pipelines that facilate CI / CD. 
  - I mainly use python for my programming however I am comfortable using Go and Javascript / Typescript
  - I have experience using cloud services,  I have used both AWS and Google Cloud for model building (EC2 and Compute Engine) data storage (S3, Amazon RDS, Big Guery, Firestore) and other services from both
  - I enjoy talking Tech, software engineering and Machine learning  
