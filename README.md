@@ -1,9 +1,14 @@
 ### Hi there 👋, I am Gaitho Kevin Karobia
 
  - I enjoy writing code, building models, and building pipelines that facilate CI / CD. 
- - I mainly use python for my programming however I am comfortable using Go and Javascript / Typescript
- - I have experience using cloud services,  I have used both AWS and Google Cloud for model building (EC2 and Compute Engine) data storage (S3, Amazon RDS, Big Query, Firestore) and other services from both
- - I enjoy talking Tech, software engineering and Machine learning  
+ - I mainly use python for my programming however I am comfortable using Terraform, Go and Javascript / Typescript
+ - I have experience using cloud services,  I have used both AWS and Google Cloud for model building (EC2, Compute Engine) data storage (S3, Amazon RDS, Big Query, Firestore, GCS), Kubernetes Services (GKE, GCE, EKS) and other services from both
+ - I enjoy talking Tech, software engineering and Machine learning.
+ - P.S; I'm a [10 academy](https://www.10academy.org) alumni 
+
+You can find out more about me and my work on:
+- [Linkedin](https://www.linkedin.com/in/kevin-k-9b6210162/)
+- [Medium](https://medium.com/@gkkarobia)
 
  ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=Jabor047&count_private=true&show_icons=true&theme=synthwave&hide_rank=false&include_all_commits=true)
  
