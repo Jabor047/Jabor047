@@ -10,9 +10,9 @@ You can find out more about me and my work on:
 - [Linkedin](https://www.linkedin.com/in/kevin-k-9b6210162/)
 - [Medium](https://medium.com/@gkkarobia)
 
- ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=Jabor047&count_private=true&show_icons=true&theme=synthwave&hide_rank=false&include_all_commits=true)
+ ![Kevin's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jabor047&count_private=true&show_icons=true&theme=synthwave&hide_rank=false&include_all_commits=true)
  
- ![Most Used Tech Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=Jabor047)
+ ![Most Used Tech Stack](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jabor047)
  
  ![trophy](https://github-profile-trophy.vercel.app/?username=Jabor047)
  
